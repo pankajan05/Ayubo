@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ayubo", "Ayubo\Ayubo.csproj", "{56FA2857-DC8E-4508-95B1-5F75ACA9B395}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56FA2857-DC8E-4508-95B1-5F75ACA9B395}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56FA2857-DC8E-4508-95B1-5F75ACA9B395}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56FA2857-DC8E-4508-95B1-5F75ACA9B395}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56FA2857-DC8E-4508-95B1-5F75ACA9B395}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A9610ED-466F-4AB2-839D-2CBAE7542BED}
+	EndGlobalSection
+EndGlobal
